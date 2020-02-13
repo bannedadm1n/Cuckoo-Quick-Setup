@@ -74,3 +74,4 @@ do
 done
 clear
 echo '<<< DONE >>>'
+echo 'Agent.py will need to be moved to the virtual machine you are using for tests. Ensure the snapshot is taken with this running.'
